@@ -9,4 +9,4 @@ This Landing Page Mockup demonstrates understanding of:
     Extends
     Partials
     Compilation
-  
+  SMACSS
